@@ -1,8 +1,10 @@
 ## Derek Hoogewerf
 
-# You Know Who I am
+# About this Webisite
 
-You can use the [editor on GitHub](https://github.com/derek-hoogewerf/derekhoogewerf.com/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [the editor on Github](https://github.com/derek-hoogewerf/derekhoogewerf.com/edit/main/docs/index.md) to preview the content for this website in Markdown files.
+
+Click here to [visit](https://github.com/derek-hoogewerf/derekhoogewerf.com/edit/main/docs/index.html) to visit the website.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

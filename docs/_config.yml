@@ -29,6 +29,7 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: https://derekhoogewerf.com # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 github_username:  derek_hoogewerf
+linkedin_username: derek-hoogewerf
 
 # Build settings
 theme: minima

@@ -1,1 +1,0 @@
-# derekhoogewerf.com

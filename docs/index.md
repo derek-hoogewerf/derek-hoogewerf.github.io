@@ -7,8 +7,8 @@ permalink: /
 - [About](/docs/about)
 - [Resume](#)
 - [Portfolio](#)
-- [Contact Me](#)
+- [Contact Me](#)<dbhoogewerf@yahoo.com>
 
 ![My Girlfriend][id]
 
-[id]: https://photos.app.goo.gl/voqBC86NEiAyfUjeA "Vanashree"
+[id]: /docs/assets/media/20231108_204331.jpg "Vanashree"

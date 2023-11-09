@@ -7,7 +7,7 @@ permalink: /
 - [About](/docs/about)
 - [Resume](#)
 - [Portfolio](#)
-- [Contact Me](#)<dbhoogewerf@yahoo.com>
+- [Contact Me](/docs/contact)
 
 ![My Girlfriend][id]
 

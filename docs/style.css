@@ -1,21 +1,21 @@
-body{
+body {
     margin: 0;
     padding: 0;
-    background: #FFFC85
-}
-.toggle{
+    background: #fffc85;
+  }
+  .toggle {
     position: fixed;
     top: 40px;
     left: 40px;
-    z-index: 2
-}
-.toggle a{
+    z-index: 2;
+  }
+  .toggle a {
     text-decoration: none;
     color: #262626;
     font-size: 24px;
     cursor: pointer;
-}
-.menu{
+  }
+  .menu {
     margin: 0;
     padding: 0;
     position: fixed;
@@ -23,11 +23,11 @@ body{
     left: -100%;
     width: 100%;
     height: 100%;
-    background: #FFF;
+    background: #fff;
     z-index: 1;
     transition: 0.5s;
-}
-ul{
+  }
+  ul {
     margin: 0;
     padding: 0;
     position: absolute;
@@ -35,12 +35,12 @@ ul{
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-}
-ul li{
+  }
+  ul li {
     list-style: none;
-}
-
-ul li a{
+  }
+  
+  ul li a {
     padding: 10px;
     display: inline-block;
     font-family: verdana;
@@ -48,11 +48,12 @@ ul li a{
     text-decoration: none;
     text-transform: uppercase;
     color: #262626;
-}
-ul li a:hover{
-    background: #FFFC85
-}
-.menu.active{
+  }
+  ul li a:hover {
+    background: #fffc85;
+  }
+  .menu.active {
     left: 0;
     overflow: auto;
-}
+  }
+  

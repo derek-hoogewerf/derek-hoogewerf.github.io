@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+# layout: page
+title: About - Derek Hoogewerf
 permalink: /about/
 ---
 
